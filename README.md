@@ -1,32 +1,13 @@
-# Wiki-project
+# One Piece wiki
 
-Dit is de sjabloon voor de projectopdracht van **IT Essentials**. Je bouwt er een kleine wiki mee over een universum naar keuze: een boekenreeks, een filmuniversum, een game, een sportcompetitie, een muziekgenre. Wat je kiest maakt niet uit, zolang je er zelf iets over te vertellen hebt.
+De anime en manga One Piece gaat over een jonge piraat genaamd Monkey D. Luffy. Zijn grootste droom is om de koning van de piraten te worden. 
 
-De volledige opdracht, de spelregels en de puntenverdeling staan op de cursussite onder **Opdracht**.
+Om dit doel te bereiken, heeft hij natuurlijk een sterke bemanning nodig. Zijn crew bestaat uit Zoro, Sanji, Nami, Usopp, Chopper, Brook, Robin, Franky en Jinbei.
 
-## Wat je doet
+Elke bemanningslid heeft zijn eigen specialiteit. Franky is bijvoorbeeld verantwoordelijk voor het onderhoud van het schip, Sanji is de kok, Nami is de navigator en Chopper is de dokter.
 
-1. **Fork** deze repository naar je eigen GitHub-account. Gebruik niet de knop *Use this template*.
-2. Kloon je fork, en voeg deze repository toe als tweede remote onder de naam `upstream`.
-3. Vervang de inhoud hieronder door je eigen wiki.
-4. Geef je GitHub-gebruikersnaam door via de uploadzone op Digitap.
+De wereld van One Piece bestaat uit enorme oceanen, verschillende eilanden en gevaarlijke gebieden, Om de piratenkoning te worden, moet Luffy delegendarische schat van de vorige piratenkoning, Gol D. Roger, vinden.
 
-## Inhoud van deze repository
+Deze schat staat bekend als de One Piece. Omdat zoveel piraten op zoek zijn naar dezelfde schat, is de reis allebehalve gemakkelijk.
 
-| Bestand | Wat erin komt |
-|---|---|
-| `README.md` | De titel van je wiki en een inleiding van vijf tot tien regels. Dit bestand vervang je dus door je eigen tekst |
-| `docs/personages.md` | Een tabel met minstens vijf personages |
-| `docs/locaties.md` | Minstens drie locaties, elk met een korte beschrijving |
-
-Onderweg voeg je zelf nog een `.gitignore` en een extra pagina toe. Hoe en wanneer, staat in de opdracht.
-
-## Voorbeeld
-
-Een ingevulde wiki over Harry Potter zou beginnen met een inleiding als deze:
-
-> # De Wereld van Harry Potter
->
-> Deze wiki verzamelt de personages en locaties uit de boekenreeks van J.K. Rowling. Het verhaal speelt zich af in een verborgen magische wereld die naast de gewone wereld bestaat, met Zweinsteins Hogeschool voor Hekserij en Hocus-Pocus als middelpunt. De reeks volgt Harry Potter van zijn elfde tot zijn zeventiende, en draait rond zijn confrontatie met Voldemort.
-
-Kies gerust hetzelfde universum als een klasgenoot: enkel identieke teksten zijn een probleem.
+In deze wiki worden de belangrijkste personages, locaties en gebeurtenissen uit de wereld van One Piece besproken. 
