@@ -1,0 +1,3 @@
+# Duivelsvruchten
+
+Duivelsvruchten zijn mysterieuze vruchten die speciale krachten geven aan de persoon die ze opeet. Deze krachten kunnen sterk verschillen per vrucht. Het grote nadeel is dat de gebruiker zijn vermogen om te zwemmen verliest. Wanneer een gebruiker in zee terechtkomt, verzwakt hij en zinkt hij naar de bodem. Er bestaan 3 verschillende soorten duivelsvruchten: Paramacia, Logia en Zoan. Elke soort geeft de gebruiker andere mogelijkheden.
